@@ -1,4 +1,4 @@
-# Game Studio Brainstorming Template
+# Game Studio Brainstorming
 
 ## Studio Name Ideas
 - **Primary Ideas:**
@@ -79,7 +79,7 @@
   - Simplified Fun, Endless Connections
   - New Player has entered the lobby
 
--- **Sketches/Logo**: <KC/>
+-- **Sketches/Logo**: KC
 
 ---
 
